@@ -6,7 +6,7 @@ This repository contains my mini beginner exercises and more and its part of my 
 - **NumPy practice** ---
 - **pandas practice** ---
 - **matplotlib** ---
-- **other** ---
+- **other** --- Loops and If conditions 
 
 
 # Libraries And Tools
