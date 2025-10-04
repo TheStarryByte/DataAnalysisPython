@@ -2,7 +2,7 @@
 
 This repository contains my mini beginner exercises and more and its part of my learning journey 
 
-# whats inside this repository
+# Inside This Repository
 - **NumPy practice** ---
 - **pandas practice** ---
 - **matplotlib** ---
@@ -16,11 +16,11 @@ This repository contains my mini beginner exercises and more and its part of my 
 - matplotlib
 
 
-# goal
+# My Goal
 my goal is to build strong foundation in data analysis before moving to the next step
 
 
-# whats next
+# Next
 - keep practicing with real dataset using panadas and matplotlib
 - start learning about machine learning 
 - try out more small projects 
