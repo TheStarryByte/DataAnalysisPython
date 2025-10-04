@@ -21,3 +21,6 @@ my goal is to build strong foundation in data analysis before moving to the next
 
 
 # whats next
+- keep practicing with real dataset using panadas and matplotlib
+- start learning about machine learning 
+- try out more small projects 
