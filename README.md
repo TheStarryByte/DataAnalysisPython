@@ -1,4 +1,4 @@
-# Safa Data Analysis practice
+# Data Science practice
 
 This repository contains my mini beginner exercises and more and its part of my learning journey 
 
